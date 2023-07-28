@@ -25,7 +25,6 @@ public class DataTypes {
         // Use static variable
         System.out.println(Variables.weight);
 
-
     }
 
 }

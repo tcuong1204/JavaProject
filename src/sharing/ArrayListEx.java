@@ -62,8 +62,6 @@ public class ArrayListEx {
         // Length (size)
         System.out.println("arrayList size: " + arrayList.size());
 
-
-
     }
 
 }
