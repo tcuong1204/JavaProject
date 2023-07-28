@@ -26,7 +26,6 @@ public class HashSetEx {
         arrayList.add("Java");
         arrayList.add("Python");
         arrayList.add("C");
-        arrayList.add("C");
 
         Iterator<String> iterator1 = arrayList.iterator();
         while (iterator1.hasNext()) {

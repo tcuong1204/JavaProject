@@ -27,7 +27,6 @@ public class Variables {
     float z = y; // Automatically converts the long type to float type
 //    short t = z; // Cannot convert a high data to lower data type
 
-
     // Narrowing type casting: double -> float -> long -> int -> char -> short -> byte - Manual
     float f = 16.666f;
     int l = (int) f;
@@ -44,7 +43,7 @@ public class Variables {
 
         System.out.println(d);
 
-        // Block of code below tell that we are not able to change value of final variable
+//         Block of code below tell that we are not able to change value of final variable
 //        this.carName = "Audi";
 //        weight = 249.5;
 //        pi = 3.15;

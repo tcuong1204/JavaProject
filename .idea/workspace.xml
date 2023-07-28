@@ -5,31 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1935610e-84c4-4f73-874a-b01f1f5dba92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/FileIO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/ProtectedExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/AccessModifiers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/ArrayListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/FileIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/FlowControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/HashMapEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/OOPAbstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/OOPEncapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/OOPInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/OOPPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sharing/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sharing/HashTableEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharing/ArrayListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sharing/ArrayListEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharing/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sharing/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharing/HashMapEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sharing/HashMapEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharing/HashSetEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sharing/HashSetEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharing/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sharing/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SrjtcCSFgBzZot2UZflbBwKAmC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -62,23 +48,11 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ltcuong/IdeaProjects/Sharing/JavaProject"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HashMapEx">
-    <configuration name="AccessModifiers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sharing.AccessModifiers2" />
-      <module name="JavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sharing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sharing.ArrayListEx" />
       <module name="JavaProject" />
@@ -92,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowControls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sharing.FlowControls" />
+    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sharing.DataTypes" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -131,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sharing.Variables" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sharing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashMapEx" />
         <item itemvalue="Application.ArrayListEx" />
+        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.DataTypes" />
+        <item itemvalue="Application.HashMapEx" />
         <item itemvalue="Application.OOPInheritance" />
-        <item itemvalue="Application.AccessModifiers2" />
-        <item itemvalue="Application.FlowControls" />
       </list>
     </recent_temporary>
   </component>
