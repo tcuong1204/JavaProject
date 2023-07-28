@@ -12,11 +12,10 @@ public class HashSetEx {
         hashSet.add("C++");
         hashSet.add("Java");
         hashSet.add("Python");
-        hashSet.add(null);
 
         Iterator<String> iterator = hashSet.iterator();
         while (iterator.hasNext()) {
-            System.out.println(iterator.next());
+            System.out.println(iterator.next().hashCode());
         }
 
 
